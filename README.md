@@ -23,7 +23,7 @@ Find me on <a rel="me" href="https://mas.to/@nmoo">Linkedin</a>.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
+      <td><a href=["https://status.nmoo.dev/top-tracks?i=1&open](https://open.spotify.com/intl-pt/track/7dW84mWkdWE5a6lFWxJCBG)"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
