@@ -1,7 +1,5 @@
 # Hey, I'm Tha!
 
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
-
 ### I'm a Software Engineer at Mercado Livre Company, and a lover of programming and tecnology :)!
 
 Recently I've been programming a lot in Golang and React, but I've already ventured into many worlds such as Typescript, Angular, Java, etc.  Each world is unique and it's always a pleasure to explore each adventure in its own way.
