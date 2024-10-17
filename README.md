@@ -1,6 +1,6 @@
 # Hey, I'm Tha!
 
-### I'm a Software Engineer at Mercado Livre Company, and a lover of programming and tecnology :)!
+### I'm a Software Engineer, and a lover of programming and tecnology :)!
 
 Recently I've been programming a lot in Golang and React, but I've already ventured into many worlds such as Typescript, Angular, Java, etc.  Each world is unique and it's always a pleasure to explore each adventure in its own way.
 
